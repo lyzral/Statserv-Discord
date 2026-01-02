@@ -1,0 +1,10 @@
+{
+  "thousandsSeparator": "none",
+  "counters": {
+    "1": { "channelId": null, "sub1": null, "sub2": null, "extra": {} },
+    "2": { "channelId": null, "sub1": null, "sub2": null, "extra": {} },
+    "3": { "channelId": null, "sub1": null, "sub2": null, "extra": {} },
+    "4": { "channelId": null, "sub1": null, "sub2": null, "extra": {} },
+    "5": { "channelId": null, "sub1": null, "sub2": null, "extra": {} }
+  }
+}
